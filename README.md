@@ -314,15 +314,4 @@ This project is intentionally compact and educational. For a stronger production
 - Matplotlib
 - Jupyter Notebook
 
-## Learning Objectives
 
-This project provides practical experience with:
-
-- Defining custom PyTorch models.
-- Understanding layers, neurons, weights, and biases.
-- Applying activation functions.
-- Using logits and cross-entropy loss for multiclass classification.
-- Training with gradient descent and backpropagation.
-- Evaluating predictions correctly.
-- Performing inference on new data.
-- Persisting and restoring learned model parameters.
